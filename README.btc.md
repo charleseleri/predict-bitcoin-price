@@ -1,3 +1,4 @@
+!pip install yfinance ta xgboost statsmodels tensorflow
 # Bitcoin Price Prediction with AI and Technical Indicators
 
 ## Overview
